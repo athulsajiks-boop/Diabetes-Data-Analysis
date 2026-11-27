@@ -1,0 +1,8 @@
+Metric,Value
+Total records,768.0
+Total features including target,9.0
+Diabetes outcome = 1,268.0
+Diabetes outcome = 0,500.0
+Positive outcome percentage,34.9
+Duplicate rows,0.0
+Columns with zero values treated as missing,5.0
